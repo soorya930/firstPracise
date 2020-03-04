@@ -1,2 +1,2 @@
 #!bin/bash
-echo "This is a practise"
+echo "This is a practise1"
